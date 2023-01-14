@@ -1,6 +1,6 @@
 # rust-openssl-cannot-link-statically
 
-This repository demonstrates rust-openssl cannot be statically linked with env `OPENSSL_STATIC` set in .cargo/config.toml.
+This repository demonstrates rust-openssl cannot be statically linked with env `OPENSSL_STATIC` set in [.cargo/config.toml](.cargo/config.toml) under project root.
 
 ## Prerequisite
 - openssl: 0.10.42
